@@ -1,5 +1,5 @@
 # 2024_IBM_Quantum_Challenge_Solutions
-Worked solutions for all graded components of the 2024 IBM Quantum Challenge run on Qiskit 1.0 (excludes bonus lab) from Freesia Gaul. 
+Worked solutions for all graded components of the 2024 IBM Quantum Challenge run on Qiskit 1.0 (excludes bonus lab and initialization Lab 0.) 
 
 These sets of labs are intended to do over 10 days. They were designed to teach people about the updates that came out with Qiskit 1.0.
 They were designed by IBM Quantum and the challenge ran between the 5th of June, 2024 to the 15th. <a href="https://challenges.quantum.ibm.com/2024#lab-0">Labs Here</a> (may be outdated URL depending on the access date; It just contains the labs with empty cells.)
@@ -17,4 +17,4 @@ Have fun. :)
 (I do not claim to be the official solutions for IBM Quantum, this repo is only to help out curious colleagues with my approaches.)
 
 IMPORTANT: 
-IF RUNNING THESE ON YOUR SYSTEM, DOWNLOAD THE DATASETS, SCRIPTS AND EXTRA MATERIALS (like birds.csv or utils.py) FROM <a href="https://github.com/qiskit-community/ibm-quantum-challenge-2024/tree/main">THESE BEAUTIFUL DEVELOPERS!.</a>
+IF RUNNING THESE ON YOUR SYSTEM, DOWNLOAD THE DATASETS, SCRIPTS AND EXTRA MATERIALS (like birds.csv or utils.py) FROM <a href="https://github.com/qiskit-community/ibm-quantum-challenge-2024/tree/main">THESE BEAUTIFUL DEVELOPERS!.</a> They will also have Lab 0. :)
