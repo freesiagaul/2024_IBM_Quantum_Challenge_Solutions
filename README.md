@@ -8,6 +8,10 @@ Notebooks that may be useful for running this are included here:  <a href="https
 
 I found out about this on the final day, and did it in 7~ hours. Hence, no bonus lab is included. However, this is all the solutions to the actual challenge.
 
+For Lab 3, you had the option of 4 different labs (3 of which counted for marks.) I did Circuit Knitting. Why? Because it's cool. (But mainly because I don't have to pay for access to it's functions through IBM in the future so it was the most worth it for me. Circuit Knitting is a creative way to simplify horrifically messy and complex quantum circuits. 
+
+A good addendum to the circuit knitting lab is <a href="https://arxiv.org/pdf/2205.00016">this paper.</a>)
+
 Have fun. :)
 
 (I do not claim to be the official solutions for IBM Quantum, this repo is only to help out curious colleagues with my approaches.)
