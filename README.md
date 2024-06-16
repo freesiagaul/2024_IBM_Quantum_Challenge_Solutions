@@ -6,7 +6,7 @@ They were designed by IBM Quantum and the challenge ran between the 5th of June,
 
 Notebooks that may be useful for running this are included here:  <a href="https://www.ibm.com/quantum/blog/qiskit-notebook-environments">Notebook Help</a>
 
-I found out about this on the final day, and did it in 7~ hours. Hence, no bonus lab is included. However, this is all the solutions to the actual challenge.
+I found out about this on the final day, and did it in 9~ hours. Hence, no bonus lab is included. However, this is all the solutions to the actual challenge.
 
 For Lab 3, you had the option of 4 different labs (3 of which counted for marks.) I did Circuit Knitting. Why? Because it's cool. (But mainly because I don't have to pay for access to it's functions through IBM in the future so it was the most worth it for me. Circuit Knitting is a creative way to simplify horrifically messy and complex quantum circuits. 
 
