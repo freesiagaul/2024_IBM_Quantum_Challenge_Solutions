@@ -15,3 +15,6 @@ A good addendum to the circuit knitting lab is <a href="https://arxiv.org/pdf/22
 Have fun. :)
 
 (I do not claim to be the official solutions for IBM Quantum, this repo is only to help out curious colleagues with my approaches.)
+
+IMPORTANT: 
+IF RUNNING THESE ON YOUR SYSTEM, DOWNLOAD THE DATASETS, SCRIPTS AND EXTRA MATERIALS (like birds.csv or utils.py) FROM <a href="https://github.com/qiskit-community/ibm-quantum-challenge-2024/tree/main">THESE BEAUTIFUL DEVELOPERS!.</a>
