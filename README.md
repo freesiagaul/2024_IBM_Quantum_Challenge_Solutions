@@ -10,7 +10,7 @@ I found out about this on the final day, and did it in 7~ hours. Hence, no bonus
 
 For Lab 3, you had the option of 4 different labs (3 of which counted for marks.) I did Circuit Knitting. Why? Because it's cool. (But mainly because I don't have to pay for access to it's functions through IBM in the future so it was the most worth it for me. Circuit Knitting is a creative way to simplify horrifically messy and complex quantum circuits. 
 
-A good addendum to the circuit knitting lab is <a href="https://arxiv.org/pdf/2205.00016">this paper.</a>)
+A good addendum to the circuit knitting lab is <a href="https://arxiv.org/pdf/2205.00016">this paper.</a>
 
 Have fun. :)
 
