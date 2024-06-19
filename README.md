@@ -18,8 +18,6 @@ A good addendum to the circuit knitting lab is <a href="https://arxiv.org/pdf/22
 ### IMPORTANT: 
 IF RUNNING THESE ON YOUR SYSTEM, DOWNLOAD THE DATASETS, SCRIPTS AND EXTRA MATERIALS (like birds.csv or utils.py) FROM <a href="https://github.com/qiskit-community/ibm-quantum-challenge-2024/tree/main">THESE BEAUTIFUL DEVELOPERS!.</a> They will also have Lab 0. :)
 
-![image](https://github.com/FreesiaG/2024_IBM_Quantum_Challenge_Solutions/assets/96673659/d9b382b2-cf3b-4a8b-80da-06939c0af913)
-
 #### (Also Important!)
 
 Have fun!
