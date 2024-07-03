@@ -1,6 +1,8 @@
 # 2024 IBM Quantum Challenge Solutions
 Worked solutions for all graded components of the 2024 IBM Quantum Challenge run on Qiskit 1.0 (excludes bonus lab and initialization Lab 0.) 
 
+UPDATE: Official solutions are out now; These are legacy sols. for those who were curious prior to their publishing :)
+
 ### Summary
 These sets of labs are intended to do over 10 days. They were designed to teach people about the updates that came out with Qiskit 1.0.
 They were designed by IBM Quantum and the challenge ran between the 5th of June, 2024 to the 15th. <a href="https://challenges.quantum.ibm.com/2024#lab-0">Labs Here</a> (may be outdated URL depending on the access date; It just contains the labs with empty cells.)
