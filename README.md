@@ -23,4 +23,4 @@ IF RUNNING THESE ON YOUR SYSTEM, DOWNLOAD THE DATASETS, SCRIPTS AND EXTRA MATERI
 #### (Also Important!)
 
 Have fun! <br>
-If you're totally new to Qiskit I'd recommend checking out "Coding With Qiskit - 1.x" by Qiskit <a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvrgHZt3exM_NNiNKtZlHvZi"> for set-up and theory help, as well as their documentation as you go along.
+If you're totally new to Qiskit I'd recommend checking out "Coding With Qiskit - 1.x" by  <a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvrgHZt3exM_NNiNKtZlHvZi"> Qiskit </a> for set-up and theory help, as well as their documentation as you go along.
