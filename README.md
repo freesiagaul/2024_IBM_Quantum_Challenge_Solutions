@@ -14,12 +14,12 @@ Worked solutions for all graded components of the 2024 IBM Quantum Challenge run
 
 ![Circuit Image](circuit.png)
 
-### Summary
+### Overview
 
 These sets of labs are intended to do over 10 days. They were designed by IBM Quantum to inform and educate on the updates to the Qiskit SDK (version 1.0 release.) <br> <br>
 The challenge ran between the 5-15th of June.
 
-Notebooks that used to run this are included here: <a href="https://github.com/qiskit-community/ibm-quantum-challenge-2024">Notebook Help</a> These are largely datasets for questions.
+Notebooks that used to run this are included here: <a href="https://github.com/qiskit-community/ibm-quantum-challenge-2024">Notebook Help</a>. These are largely datasets for questions.
 
 I found out about this on the final day, and did it in 9~ hours. Hence, no bonus lab is included. However, this is all the solutions to the actual challenge. The bonus lab scales up to 50 qubits on a real backend - so note that time on these computers post-challenge may be harder to get.
 
